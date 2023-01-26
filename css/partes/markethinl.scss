@@ -1,0 +1,51 @@
+.markethink {
+  display: grid;
+  grid-template-columns: 45% 55%;
+  color: #253D32;
+  padding-top: 171px;
+
+  .quadro {
+    grid-column: 1 / 2;
+    margin: 109px 0 109px 0;
+  }
+  
+  .texto {
+    grid-column: 2 / 2;
+    text-align: start;
+    display: inline-flex;
+    flex-direction: column;
+    margin: 109px 0 109px 0;
+    padding-left: 25%;
+
+    h3{
+      width: 488px;
+      height: 130px;
+      font-weight: 700;
+      font-size: 42px;
+      line-height: 65px;
+      letter-spacing: 0.02em;
+      margin: 0;
+    }
+
+    h4{      
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 40px;
+      color: #78847D;
+    }
+  }
+
+  button{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;letter-spacing: 0.02em;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+
+    width: 243px;
+    height: 78px;
+    background: linear-gradient(328.68deg, #98AA28 13.03%, #D6FF7E 120.61%);
+    box-shadow: 0px 34px 50px rgba(7, 63, 67, 0.07);
+    border-radius: 192px;
+  }
+}

@@ -1,0 +1,45 @@
+header {
+  min-height: 250px;
+  background-image: url("../imagens/fundo.png");
+  background-position: 20% 47%;
+  background-size: cover;
+  flex-direction: column;
+  position: relative;
+  padding: 15px;
+}
+header nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header nav .logo {
+  width: 189px;
+  height: 31px;
+}
+header nav ul {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+header nav ul li {
+  display: inline-block;
+  padding: 1rem;
+}
+header nav ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  color: white;
+}
+header nav ul li a:hover {
+  border-bottom: 2px solid white;
+}
+header section {
+  align-items: center;
+  justify-content: center;
+  height: calc(100% - 50px);
+}
+header section h2 {
+  text-align: center;
+}/*# sourceMappingURL=header.css.map */

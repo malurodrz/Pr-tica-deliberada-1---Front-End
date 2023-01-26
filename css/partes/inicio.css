@@ -1,0 +1,43 @@
+.inicio {
+  text-align: center;
+  padding-bottom: 203px;
+}
+.inicio h3 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  opacity: 0.8;
+}
+.inicio h4 {
+  font-weight: 600;
+  font-size: 90px;
+  line-height: 107px;
+  letter-spacing: 0.04em;
+  margin: 0 0 30px 30px;
+}
+.inicio p {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+  text-align: center;
+  opacity: 0.6;
+}
+.inicio button {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 243px;
+  height: 78px;
+  background: linear-gradient(328.68deg, #98AA28 13.03%, #D6FF7E 120.61%);
+  box-shadow: 0px 34px 50px rgba(7, 63, 67, 0.07);
+  border-radius: 192px;
+}/*# sourceMappingURL=inicio.css.map */

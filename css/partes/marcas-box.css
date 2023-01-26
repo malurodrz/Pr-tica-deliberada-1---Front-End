@@ -1,0 +1,15 @@
+.marcas-box {
+  background-color: #F6FBF9;
+  display: flex;
+  height: 140px;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-around;
+}
+.marcas-box ul {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 184px;
+  padding-right: 145px;
+  width: 100%;
+}/*# sourceMappingURL=marcas-box.css.map */

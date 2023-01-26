@@ -1,0 +1,36 @@
+html, body{
+  color: white;
+  font-family: 'Rubik';
+  font-style: normal;
+  height: 100%;
+	margin: 0;
+	padding: 0;
+  text-align: center;
+	width: 100%;	
+
+}
+
+button{
+  box-sizing: border-box;
+  width: 140px;
+  height: 55px;
+  border-radius: 116px;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: 1px solid rgba(237, 255, 129, 0.4);
+}
+
+h1{
+	text-align: center;
+}
+
+@import './partes/header.scss';
+@import './partes/inicio.scss';
+@import './partes/marcas-box.scss';
+@import './partes/servicos.scss';
+@import './partes/markethinl.scss';
+@import './partes/ajuda.scss';
+@import './partes/timeline.scss';
+@import './partes/inscrever.scss';
+@import './partes/footer.scss';
+
